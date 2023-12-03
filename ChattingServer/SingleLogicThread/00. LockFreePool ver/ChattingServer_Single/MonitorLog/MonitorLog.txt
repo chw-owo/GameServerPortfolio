@@ -1,0 +1,860 @@
+[Dec  3 2023 11:04:10]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:04:11]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:04:12]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:04:13]
+
+Connected Session: 4927
+Packet Pool: 10000/10000
+
+Update TPS: 32
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 4927
+Player Pool: 15073/20000
+
+Total Accept: 4927
+Total Disconnect: 0
+Recv/1sec: 4927
+Send/1sec: 0
+Accept/1sec: 4927
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:04:14]
+
+Connected Session: 5000
+Packet Pool: 5358/10000
+
+Update TPS: 1
+Requested Packet: 10697
+Handled Packet: 6056
+Job Pool: 5359/10000
+
+Player Count: 5000
+Player Pool: 15000/20000
+
+Total Accept: 5000
+Total Disconnect: 0
+Recv/1sec: 10770
+Send/1sec: 6056
+Accept/1sec: 73
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:04:15]
+
+Connected Session: 4993
+Packet Pool: 5548/10000
+
+Update TPS: 0
+Requested Packet: 3655
+Handled Packet: 3946
+Job Pool: 4506/10000
+
+Player Count: 5000
+Player Pool: 15000/20000
+
+Total Accept: 5518
+Total Disconnect: 525
+Recv/1sec: 6008
+Send/1sec: 29344
+Accept/1sec: 518
+Disconnect/1sec: 525
+
+[Dec  3 2023 11:04:17]
+
+Connected Session: 4997
+Packet Pool: 5626/10000
+
+Update TPS: 0
+Requested Packet: 2039
+Handled Packet: 2108
+Job Pool: 3310/10000
+
+Player Count: 5000
+Player Pool: 15000/20000
+
+Total Accept: 6157
+Total Disconnect: 1160
+Recv/1sec: 2750
+Send/1sec: 28427
+Accept/1sec: 639
+Disconnect/1sec: 635
+
+[Dec  3 2023 11:04:18]
+
+Connected Session: 4990
+Packet Pool: 6101/10000
+
+Update TPS: 0
+Requested Packet: 1838
+Handled Packet: 2318
+Job Pool: 2749/10000
+
+Player Count: 4999
+Player Pool: 15001/20000
+
+Total Accept: 7255
+Total Disconnect: 2265
+Recv/1sec: 3049
+Send/1sec: 27167
+Accept/1sec: 1098
+Disconnect/1sec: 1105
+
+[Dec  3 2023 11:04:19]
+
+Connected Session: 4902
+Packet Pool: 8968/10000
+
+Update TPS: 0
+Requested Packet: 2312
+Handled Packet: 5105
+Job Pool: 5551/11165
+
+Player Count: 3171
+Player Pool: 16829/20000
+
+Total Accept: 11490
+Total Disconnect: 6588
+Recv/1sec: 6378
+Send/1sec: 15867
+Accept/1sec: 4235
+Disconnect/1sec: 4323
+
+[Dec  3 2023 11:04:22]
+
+Connected Session: 3654
+Packet Pool: 9978/10000
+
+Update TPS: 1
+Requested Packet: 10980
+Handled Packet: 10409
+Job Pool: 11094/11165
+
+Player Count: 3686
+Player Pool: 16313/20000
+
+Total Accept: 19610
+Total Disconnect: 15956
+Recv/1sec: 17465
+Send/1sec: 9693
+Accept/1sec: 8120
+Disconnect/1sec: 9368
+
+[Dec  3 2023 11:04:23]
+
+Connected Session: 4105
+Packet Pool: 10000/10000
+
+Update TPS: 666
+Requested Packet: 3382
+Handled Packet: 3056
+Job Pool: 11165/11165
+
+Player Count: 4105
+Player Pool: 15895/20000
+
+Total Accept: 22943
+Total Disconnect: 18838
+Recv/1sec: 6477
+Send/1sec: 3111
+Accept/1sec: 3333
+Disconnect/1sec: 2882
+
+[Dec  3 2023 11:04:25]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 18
+Requested Packet: 4640
+Handled Packet: 4086
+Job Pool: 11165/11165
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 23000
+Total Disconnect: 23000
+Recv/1sec: 3794
+Send/1sec: 3578
+Accept/1sec: 57
+Disconnect/1sec: 4162
+
+[Dec  3 2023 11:04:26]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 11165/11165
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 23000
+Total Disconnect: 23000
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:04:27]
+
+Connected Session: 323
+Packet Pool: 10000/10000
+
+Update TPS: 94
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 11165/11165
+
+Player Count: 323
+Player Pool: 19677/20000
+
+Total Accept: 23323
+Total Disconnect: 23000
+Recv/1sec: 323
+Send/1sec: 0
+Accept/1sec: 323
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:04:28]
+
+Connected Session: 978
+Packet Pool: 10000/10000
+
+Update TPS: 180
+Requested Packet: 1
+Handled Packet: 1
+Job Pool: 11165/11165
+
+Player Count: 977
+Player Pool: 19023/20000
+
+Total Accept: 23979
+Total Disconnect: 23001
+Recv/1sec: 656
+Send/1sec: 1
+Accept/1sec: 656
+Disconnect/1sec: 1
+
+[Dec  3 2023 11:04:29]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 900
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 11165/11165
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 24139
+Total Disconnect: 24139
+Recv/1sec: 161
+Send/1sec: 0
+Accept/1sec: 160
+Disconnect/1sec: 1138
+
+[Dec  3 2023 11:20:45]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:20:46]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:20:47]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:20:48]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:20:49]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:20:50]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:20:51]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:20:52]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:20:53]
+
+Connected Session: 5000
+Packet Pool: 10000/10000
+
+Update TPS: 29
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 5000
+Player Pool: 15000/20000
+
+Total Accept: 5000
+Total Disconnect: 0
+Recv/1sec: 5000
+Send/1sec: 0
+Accept/1sec: 5000
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:20:54]
+
+Connected Session: 4989
+Packet Pool: 5156/10000
+
+Update TPS: 1
+Requested Packet: 15287
+Handled Packet: 10444
+Job Pool: 4870/10000
+
+Player Count: 5000
+Player Pool: 15000/20000
+
+Total Accept: 5138
+Total Disconnect: 149
+Recv/1sec: 15425
+Send/1sec: 16952
+Accept/1sec: 138
+Disconnect/1sec: 149
+
+[Dec  3 2023 11:20:55]
+
+Connected Session: 4997
+Packet Pool: 5489/10000
+
+Update TPS: 0
+Requested Packet: 1552
+Handled Packet: 1848
+Job Pool: 4211/10000
+
+Player Count: 5000
+Player Pool: 15000/20000
+
+Total Accept: 5638
+Total Disconnect: 641
+Recv/1sec: 2114
+Send/1sec: 27274
+Accept/1sec: 500
+Disconnect/1sec: 492
+
+[Dec  3 2023 11:20:56]
+
+Connected Session: 4997
+Packet Pool: 5492/10000
+
+Update TPS: 0
+Requested Packet: 2348
+Handled Packet: 2381
+Job Pool: 3234/10000
+
+Player Count: 4992
+Player Pool: 15008/20000
+
+Total Accept: 6132
+Total Disconnect: 1135
+Recv/1sec: 2988
+Send/1sec: 31635
+Accept/1sec: 494
+Disconnect/1sec: 494
+
+[Dec  3 2023 11:20:57]
+
+Connected Session: 4963
+Packet Pool: 6504/10000
+
+Update TPS: 0
+Requested Packet: 1487
+Handled Packet: 2530
+Job Pool: 2782/10000
+
+Player Count: 5000
+Player Pool: 15000/20000
+
+Total Accept: 7623
+Total Disconnect: 2660
+Recv/1sec: 3278
+Send/1sec: 27977
+Accept/1sec: 1491
+Disconnect/1sec: 1525
+
+[Dec  3 2023 11:20:59]
+
+Connected Session: 4135
+Packet Pool: 10000/10000
+
+Update TPS: 45
+Requested Packet: 1771
+Handled Packet: 5019
+Job Pool: 10000/10000
+
+Player Count: 4135
+Player Pool: 15865/20000
+
+Total Accept: 10419
+Total Disconnect: 6284
+Recv/1sec: 4845
+Send/1sec: 14684
+Accept/1sec: 2796
+Disconnect/1sec: 3624
+
+[Dec  3 2023 11:21:00]
+
+Connected Session: 4461
+Packet Pool: 10000/10000
+
+Update TPS: 262
+Requested Packet: 5398
+Handled Packet: 4888
+Job Pool: 10000/10000
+
+Player Count: 4461
+Player Pool: 15539/20000
+
+Total Accept: 14743
+Total Disconnect: 10282
+Recv/1sec: 8914
+Send/1sec: 4460
+Accept/1sec: 4324
+Disconnect/1sec: 3998
+
+[Dec  3 2023 11:21:01]
+
+Connected Session: 4461
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 4461
+Player Pool: 15539/20000
+
+Total Accept: 14743
+Total Disconnect: 10282
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:21:02]
+
+Connected Session: 4461
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 4461
+Player Pool: 15539/20000
+
+Total Accept: 14743
+Total Disconnect: 10282
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:21:03]
+
+Connected Session: 4461
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 4461
+Player Pool: 15539/20000
+
+Total Accept: 14743
+Total Disconnect: 10282
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:21:05]
+
+Connected Session: 47
+Packet Pool: 10000/10000
+
+Update TPS: 12
+Requested Packet: 5830
+Handled Packet: 5098
+Job Pool: 10000/10000
+
+Player Count: 47
+Player Pool: 19953/20000
+
+Total Accept: 16000
+Total Disconnect: 15953
+Recv/1sec: 5771
+Send/1sec: 4311
+Accept/1sec: 1257
+Disconnect/1sec: 5671
+
+[Dec  3 2023 11:21:06]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 3
+Requested Packet: 62
+Handled Packet: 56
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 16000
+Total Disconnect: 16000
+Recv/1sec: 49
+Send/1sec: 49
+Accept/1sec: 0
+Disconnect/1sec: 47
+
+[Dec  3 2023 11:21:07]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 16000
+Total Disconnect: 16000
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:21:08]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 16000
+Total Disconnect: 16000
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:21:09]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 16000
+Total Disconnect: 16000
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:21:10]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 16000
+Total Disconnect: 16000
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:29:06]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:29:07]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+
+[Dec  3 2023 11:29:08]
+
+Connected Session: 0
+Packet Pool: 10000/10000
+
+Update TPS: 0
+Requested Packet: 0
+Handled Packet: 0
+Job Pool: 10000/10000
+
+Player Count: 0
+Player Pool: 20000/20000
+
+Total Accept: 0
+Total Disconnect: 0
+Recv/1sec: 0
+Send/1sec: 0
+Accept/1sec: 0
+Disconnect/1sec: 0
+

@@ -1,0 +1,28 @@
+﻿  CChattingServer.cpp
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CSession.h(100,3): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CSession::ValidFlag' 왼쪽은 무시됩니다.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CChattingServer.cpp(385,40): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 13의 형식이 'unsigned __int64'입니다.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CChattingServer.cpp(385,40): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CChattingServer.cpp(499,35): warning C4267: '인수': 'size_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CPacket.cpp
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CTlsPool.h(111,33): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CTlsPool.h(101,1): message : 클래스 템플릿 멤버 함수 'CTlsPool<CPacket>::CPool::~CPool(void)'을(를) 컴파일하는 중입니다.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CTlsPool.h(48,1): message : 'CTlsPool<CPacket>::CPool::~CPool'에서 'CTlsPool<CPacket>::CPool::~CPool'에 대한 첫 번째 참조를 확인하세요.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CTlsPool.h(303,1): message : 컴파일되는 클래스 템플릿 인스턴스화 'CTlsPool<CPacket>::CPool'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CTlsPool.h(301,1): message : 클래스 템플릿 멤버 함수 'CTlsPool<CPacket>::~CTlsPool(void)'을(를) 컴파일하는 중입니다.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CPacket.cpp(3,28): message : 'void __cdecl `dynamic atexit destructor for 'public: static CTlsPool<CPacket> CPacket::_pool''(void)'에서 'CTlsPool<CPacket>::~CTlsPool'에 대한 첫 번째 참조를 확인하세요.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CPacket.h(32,1): message : 컴파일되는 클래스 템플릿 인스턴스화 'CTlsPool<CPacket>'에 대한 참조를 확인하세요.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CTlsPool.h(130,33): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+  CProfiler.cpp
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CProfiler.cpp(50,13): warning C4477: 'wprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::wstring'입니다.
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CProfiler.cpp(126,13): warning C4477: 'wprintf' : 서식 문자열 '%s'에 'wchar_t *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::wstring'입니다.
+  CRingBuffer.cpp
+  CSystemLog.cpp
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CSystemLog.cpp(26,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CLanServer.cpp
+  Main.cpp
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CSession.h(100,3): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CSession::ValidFlag' 왼쪽은 무시됩니다.
+  CNetServer.cpp
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CSession.h(100,3): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CSession::ValidFlag' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다...
+C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\ChattingServer\CNetServer.cpp(206): warning C4715: 'CNetServer::NetworkTerminate': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ChattingServer.vcxproj -> C:\Users\user\Desktop\GameServerStudy\50_NoLockServer\02_ChattingServer\00_Single\00\x64\Debug\ChattingServer.exe
