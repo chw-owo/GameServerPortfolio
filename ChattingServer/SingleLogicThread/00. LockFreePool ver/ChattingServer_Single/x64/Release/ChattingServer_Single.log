@@ -1,9 +1,0 @@
-﻿  CNetServer.cpp
-C:\Users\user\Desktop\GameServerStudy\ForPractice\50_NoLockServer\02_ChattingServer\00_Single\ChattingServer_Single\CSession.h(98,3): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CSession::ValidFlag' 왼쪽은 무시됩니다.
-  코드를 생성하고 있습니다.
-C:\Users\user\Desktop\GameServerStudy\ForPractice\50_NoLockServer\02_ChattingServer\00_Single\ChattingServer_Single\CNetServer.cpp(206): warning C4715: 'CNetServer::NetworkTerminate': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  42 of 691 functions ( 6.1%) were compiled, the rest were copied from previous compilation.
-    12 functions were new in current compilation
-    14 functions had inline decision re-evaluated but remain unchanged
-  코드를 생성했습니다.
-  ChattingServer_Single.vcxproj -> C:\Users\user\Desktop\GameServerStudy\ForPractice\50_NoLockServer\02_ChattingServer\00_Single\x64\Release\ChattingServer_Single.exe

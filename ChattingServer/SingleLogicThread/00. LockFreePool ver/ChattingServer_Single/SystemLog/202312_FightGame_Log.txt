@@ -1,9 +1,0 @@
-[FightGame][2023-12-03 11:04:08/level:2/count:00000000] Main Thread Start
-[FightGame][2023-12-03 11:04:10/level:2/count:00000001] Network Library Initialize
-[FightGame][2023-12-03 11:04:10/level:2/count:00000002] Server Initialize
-[FightGame][2023-12-03 11:20:43/level:2/count:00000000] Main Thread Start
-[FightGame][2023-12-03 11:20:45/level:2/count:00000001] Network Library Initialize
-[FightGame][2023-12-03 11:20:45/level:2/count:00000002] Server Initialize
-[FightGame][2023-12-03 11:29:04/level:2/count:00000000] Main Thread Start
-[FightGame][2023-12-03 11:29:06/level:2/count:00000001] Network Library Initialize
-[FightGame][2023-12-03 11:29:06/level:2/count:00000002] Server Initialize
